@@ -1,8 +1,14 @@
 <h1>Olá Eu sou o Gabriel </h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielJose123&show_icons=true&theme=dark" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielJose123&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
