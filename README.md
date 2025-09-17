@@ -1,17 +1,20 @@
-<h1>Gabriel José </h1>
+
+
+<h1>Gabriel José</h1>
 
 <table>
   <tr>
     <td>
-      <!-- Substitui pelo streak-stats (funcionando) -->
-      <img src="https://streak-stats.demolab.com?user=GabrielJose123&theme=dark&hide_border=true" alt="Streak Stats"/>
+      <!-- Cartão de stats com rank -->
+      ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielJose123&show_icons=true&theme=dark)
     </td>
     <td>
-      <!-- Linguagens mais usadas (ainda funciona) -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=dark" alt="Top Langs"/>
+      <!-- Linguagens mais usadas -->
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=dark)
     </td>
   </tr>
 </table>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
