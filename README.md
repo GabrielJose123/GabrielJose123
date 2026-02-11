@@ -4,7 +4,7 @@
       <img src="https://streak-stats.demolab.com?user=GabrielJose123&theme=dark&hide_border=true" alt="Streak Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Langs"/>
     </td>
   </tr>
 </table>
@@ -14,12 +14,19 @@
 <p align="left">
   <img alt="JavaScript" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img alt="TypeScript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
   <img alt="React" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
   <img alt="HTML" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
   <img alt="CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   <img alt="Node.js" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </p>
