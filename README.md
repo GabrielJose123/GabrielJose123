@@ -10,7 +10,7 @@
     <td width="50%" valign="top">
       <h3 align="left">Sobre mim</h3>
       <p align="left">
-        Estudante de Ciência da Computação construindo projetos, 
+        Estudante de Engenharia de Software
         explorando conceitos e colocando ideias em prática através do código.
       </p>
 
