@@ -16,7 +16,7 @@
 
 
   <ul align="left">
-    <li>🎓 Graduando em Ciência da Computação</li>
+    <li>🎓 Graduando em Engenharia de Software</li>
     <li>💡 Desenvolvendo soluções e estudando novas tecnologias</li>
     <li>🚀 Focado em constante aprendizado</li>
   </ul>
