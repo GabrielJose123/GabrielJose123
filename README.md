@@ -14,7 +14,7 @@
         explorando conceitos e colocando ideias em prática através do código.
       </p>
 
-```
+
   <ul align="left">
     <li>🎓 Graduando em Ciência da Computação</li>
     <li>💡 Desenvolvendo soluções e estudando novas tecnologias</li>
