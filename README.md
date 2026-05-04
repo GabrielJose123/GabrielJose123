@@ -14,8 +14,8 @@
 <div align="center">
   <h3> Tecnologias</h3>
 
-  <a href="https://skillicons.dev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielJose123&theme=dark" alt="Linguagens mais usadas" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs&theme=dark" alt="Minhas Tecnologias" />
   </a>
 </div>
 
