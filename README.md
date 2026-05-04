@@ -20,8 +20,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielJose123&theme=dark" width="100%" />
 
-</td>
-</tr>
+
 </table>
 
 <br>
