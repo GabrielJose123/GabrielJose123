@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/GabrielJose123">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielJose123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielJose123&theme=dark" alt="Estatísticas do GitHub" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=dark&langs_count=8" alt="Linguagens mais usadas"/>
   </a>
 </div>
