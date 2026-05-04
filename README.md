@@ -26,13 +26,9 @@
   ## 🛠️ Tecnologias e Contato
  <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" style="margin-right: 10px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" style="margin-right: 10px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react" style="margin-right: 10px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs" style="margin-right: 10px;">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs&theme=dark" alt="Minhas Tecnologias" />
+  </a>
 
 </div> 
   <a href="mailto:gabrieljoseroberto@hotmail.com">
