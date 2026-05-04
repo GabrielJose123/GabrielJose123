@@ -35,52 +35,31 @@
 
   <p align="left">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,js,py,c,swift,git,figma,aws,vscode&perline=5&theme=dark" 
+      src="https://skillicons.dev/icons?i=ts,nodejs,react,postgresql,linux,git,aws,php,vscode&perline=5&theme=dark" 
       width="95%"
     />
   </p>
-
-  <br>
-
-  <h3 align="left">Certificações</h3>
-
-  <p align="left">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  </p>
-</td>
-```
-
-  </tr>
-</table>
-
-<br>
-
-## 📊 Estatísticas e Atividade
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <img 
+   
+  <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielJose123&theme=dark" 
         width="100%" 
-      />
-    </td>
-    <td width="50%">
-      <img 
-        src="https://streak-stats.demolab.com?user=GabrielJose123&theme=dark&hide_border=true" 
-        width="100%" 
-      />
-    </td>
+  />
+   
+ 
+  <br>
+</td>
+
   </tr>
 </table>
 
 <br>
 
-## 📫 Contato
 
-<p align="center">
+<br>
+
+## Contato
+
+<p align="left">
   <a href="mailto:gabrieljoseroberto@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
