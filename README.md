@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/GabrielJose123">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielJose123&theme=dark" alt="Estatísticas do GitHub" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose123&layout=compact&theme=dark&langs_count=8" alt="Linguagens mais usadas"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielJose123&theme=dark" alt="Linguagens com mais commits"/>
   </a>
 </div>
 
@@ -14,8 +14,8 @@
 <div align="center">
   <h3> Tecnologias</h3>
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs&theme=dark" alt="Minhas Tecnologias" />
+  <a href="https://skillicons.dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielJose123&theme=dark" alt="Linguagens mais usadas" />
   </a>
 </div>
 
