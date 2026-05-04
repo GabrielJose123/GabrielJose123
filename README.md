@@ -7,9 +7,6 @@
       <td valign="top" width="50%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielJose123&theme=dark" width="100%" />
       </td>
-      <td valign="top" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielJose123&theme=dark" width="100%" />
-      </td>
     </tr>
     <tr>
       <td valign="top" width="50%">
